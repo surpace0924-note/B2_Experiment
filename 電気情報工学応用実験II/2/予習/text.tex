@@ -1,0 +1,81 @@
+\input{./setting.tex}
+% \title{一次元物質の評価 \\ 一次元物質の数値計算による電子状態および物性評価}
+% \date{\today}
+\begin{document}
+% \maketitle
+\pagestyle{fancy}
+
+\section{目的}
+　次のことを数値的に検証することを目的とする．
+\begin{enumerate}
+  \item フェルミエネルギーがバンドギャップの中にある時に絶縁体（半導体）となること，及び，ギャップの外にある時に導体になること．
+  \item バンドギャップの外にある時に導体となること．
+  \item 一次元物質の場合，電子状態密度が，エネルギー分散の傾きに反比例すること．
+\end{enumerate}
+
+\section{実験概要}
+　グラフェンナノリボン（GNR）の電子状態を，強束縛（タイトバインディング）近似法に基づいて求める．その際，炭素原子の$2p_z$軌道にのみを扱い，他の軌道は無視する．さらに，エネルギー分散，電子状態密度（DOS），電気伝導度（コンダクタンス），及び電流分布を求める．以上の全てを数値計算で求める．
+
+\section{理論}
+\subsection{グラフェンナノリボン（GNR）}
+　グラフェンとは,炭素原子が蜂の巣状に並んだ二次元シート状物質のこと．GNRとは,その一部を切り取って出来る一次元ワイヤー状物質のこと．GNRの電子状態は，グラフェンの切り取り方に依存して変化するため，電気伝導特性も切り取り方に依存する．\\
+
+　ここでは，アームチェア型のGNRを使用する．アームチェア型の GNR とは，図1\footnote{カーボンナノチューブの構造，http://www.center.shizuoka-c.ed.jp/，2019-4-11閲覧}のように,ワイヤー断面の両端（エッジ）がアームチェアの形をしている GNR のことである．アームチェア型GNRは，ワイヤー幅に依存して，絶縁体（半導体）になったり，導体になったりすることが知られている．
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[height=5cm]{./imgs/1.png}
+  \caption{グラフェン・ナノリボンの構造：アームチェアとジグザグ}
+\end{figure}
+
+\subsection{GNRの電子状態}
+　GNRは二次元シート状のグラフェンを切り取って出来る一次元ワイヤーである．エネルギー分散$E\left(k\right)$は,次のようになる．
+
+\begin{flalign}
+&E\left(k\right) = \pm \sqrt{1+4\cos\left(\dfrac{n}{N+1}\pi\right) \cos\left(\dfrac{k}{2}\right)+4\cos^2\left(\dfrac{n}{N+1}\pi\right)}
+\end{flalign}
+
+　ただし，$N$は，ワイヤーに平行で，なおかつ炭素原子上を通る直線の本数である．すなわち，ワイヤー幅はNに比例する．
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=10cm]{./imgs/2.png}
+  \caption{グラフェン・ナノリボンの構造：アームチェアとジグザグ}
+\end{figure}
+
+　N=5に対する$E(k)$を図示すると，図3が得られる．これは，グラフェンのエネルギーのグラフにおいて，縦軸(//E)に平行で等間隔な平面の集合によってE(k)を切断したときに,それらの断面上に生じる曲線の集合である．その様子を図4に示す．
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=5cm]{./imgs/3.png}
+  \caption{$N= 5$に対する$E(k)$}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=5cm]{./imgs/4.png}
+  \caption{グラフェンとGNRのエネルギーバンドの関係}
+\end{figure}
+
+　もし切断平面集合の中に，K点やK’点を通る平面が含まれている場合は，バンドギャップが形成されない．一方，集合内に，K 点やK’点を通る平面が存在しない場合は，バンドギャップが形成される．
+
+\section{実験方法}
+　図5のような4種類の太さのGNRを作成し，それらのエネルギー分散，電子状態密度（DOS），電気伝導度（コンダクタンス），および電流分布を求める．\\
+　計算には，タイトバインディング計算用のpythonライブラリ「KWANT」を使用して記述されたソースコードを使用する．ソースコード，および計算環境は，担当教員によって，あらかじめ用意されている．
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=7cm]{./imgs/5.png}
+  \caption{GNRの結晶構造}
+\end{figure}
+
+\section{実験結果及び考察}
+　4種類のGNRのエネルギー分散，電子状態密度（DOS），電気伝導度（コンダクタンス），および電流分布を比較し，以下の検証を中心に考察する．
+\begin{enumerate}
+  \item フェルミエネルギーがバンドギャップの中にある時に絶縁体（半導体）となること，及び，ギャップの外にある時に導体になること．
+  \item バンドギャップの外にある時に導体となること．
+  \item 一次元物質の場合，電子状態密度が，エネルギー分散の傾きに反比例すること．
+\end{enumerate}
+
+　さらに，エネルギー分散の傾きがゼロのところで DOS が発散している理由や，コンダクタンスがステップ構造をとる理由について考察して正しい結論を導く．
+
+\end{document}
