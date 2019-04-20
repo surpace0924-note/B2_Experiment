@@ -47,14 +47,20 @@
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=5cm]{./imgs/3.png}
-  \caption{$N= 5$に対する$E(k)$}
-\end{figure}
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=5cm]{./imgs/4.png}
-  \caption{グラフェンとGNRのエネルギーバンドの関係}
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, height=5cm]{./imgs/3.png}
+    \caption{$N= 5$に対する$E(k)$}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, height=5cm]{./imgs/4.png}
+    \caption{グラフェンとGNRのエネルギーバンドの関係}
+    \end{minipage}
+  \end{tabular}
 \end{figure}
 
 　もし切断平面集合の中に，K点やK’点を通る平面が含まれている場合は，バンドギャップが形成されない．一方，集合内に，K 点やK’点を通る平面が存在しない場合は，バンドギャップが形成される．
@@ -68,7 +74,7 @@
   \caption{GNRの結晶構造}
 \end{figure}
 
-\section{実験結果及び考察}
+\section{考察の方針}
 　4種類のGNRのエネルギー分散，電子状態密度（DOS），電気伝導度（コンダクタンス），および電流分布を比較し，以下の検証を中心に考察する．
 \begin{enumerate}
   \item フェルミエネルギーがバンドギャップの中にある時に絶縁体（半導体）となること，及び，ギャップの外にある時に導体になること．
@@ -77,5 +83,159 @@
 \end{enumerate}
 
 　さらに，エネルギー分散の傾きがゼロのところで DOS が発散している理由や，コンダクタンスがステップ構造をとる理由について考察して正しい結論を導く．
+
+
+\newpage
+
+\section{実験結果}
+\subsection{エネルギー分散}
+　４種類（w=2.0，w=2.5，w=3.0，w=3.5）のGNRのエネルギー分散をそれぞれ図\ref{E:w=2.0}から図\ref{E:w=3.5}に示す．\\
+\\
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2/w2-band_2.png}
+    \caption{w=2.0のエネルギー分散}
+    \label{E:w=2.0}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2_5/w2_5-band_2.png}
+    \caption{w=2.5のエネルギー分散}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w3/w3-band_2.png}
+    \caption{w=3.0のエネルギー分散}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w3_5/w3_5-band_2.png}
+    \caption{w=3.5のエネルギー分散}
+    \label{E:w=3.5}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\newpage
+\subsection{電子状態密度（DOS）}
+　４種類（w=2.0，w=2.5，w=3.0，w=3.5）の電子状態密度（DOS）をそれぞれ図\ref{DOS:w=2.0}から図\ref{DOS:w=3.5}に示す．\\
+\\
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2/w2-dos.png}
+    \caption{w=2.0の電子状態密度}
+    \label{DOS:w=2.0}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2_5/w2_5-dos.png}
+    \caption{w=2.5の電子状態密度}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w3/w3-dos.png}
+    \caption{w=3.0の電子状態密度}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w3_5/w3_5-dos.png}
+    \caption{w=3.5の電子状態密度}
+    \label{DOS:w=3.5}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\newpage
+\subsection{コンダクタンス}
+　４種類（w=2.0，w=2.5，w=3.0，w=3.5）のコンダクタンスをそれぞれ図\ref{cond:w=2.0}から図\ref{cond:w=3.5}に示す．\\
+\\
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2/w2-j_cond.png}
+    \caption{w=2.0のコンダクタンス}
+    \label{cond:w=2.0}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2_5/w2_5-j_cond.png}
+    \caption{w=2.5のコンダクタンス}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w3/w3-j_cond.png}
+    \caption{w=3.0のコンダクタンス}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w3_5/w3_5-j_cond.png}
+    \caption{w=3.5のコンダクタンス}
+    \label{cond:w=3.5}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\newpage
+\subsection{電流分布}
+　w=2.0のGNRでエネルギーが-1.2，1.2，0における（図\ref{cond:w=2.0}での青，緑，赤に対応する）電流分布をそれぞれ図\ref{j:m}，図\ref{j:p}，図\ref{j:z}に示す．\\
+\\
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2/w2-j_m1_2.png}
+    \caption{エネルギーが-1.2での電流分布}
+    \label{j:m}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2/w2-j_p1_2.png}
+    \caption{エネルギーが1.2での電流分布}
+    \label{j:p}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, scale=0.55]{./data/w2/w2-j_zero.png}
+    \caption{エネルギーが0での電流分布}
+    \label{j:z}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
 
 \end{document}
