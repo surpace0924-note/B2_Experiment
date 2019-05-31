@@ -20,15 +20,158 @@
 　高周波伝送には一般に同軸ケーブルが使用されるがマイクロ波の周波数では表皮効果による損失が大きいため断面寸法比が2:1の方形導波管が使用される．
 　導波管は長辺の寸法aの二倍の長さに等しい遮断波長$\lambda_c$を持ち，広域通過フィルタの特性をもつ．
 
-\section{実験手順}
+\section{実験手順\label{jikken}}
 \begin{enumerate}
     \item 定常波測定器にクリスタルマウントをクリップで接続する．マイクロ波発振専用電源のMOD SELECTORをCWにし電源投入後，電源電圧計が9Vであることを確認する．
     クリスタルマウントの出力を測定し，マイクロ波の発生を確認する．
 
     \item 空洞周波数計のつまみを時計方向に回しきった状態から反時計方向に回転させ，クリスタルマウントが最小となる点を探す．周波数校正図から発信周波数を求める．
     \item クリスタルマウントの接続部に指定された長方形穴のあいた金属板を挟んだ場合の発振強度を測定し，1の場合と比較する．
+
     \item 定在波測定器にマジックTの各断面を接続し，他の3個の断面に向反射終端器2個とクリスタルマウントを接続する．各面のマイクロ波強度を測定し，マジックTの電装特性を調査する．
+
     \item マイクロ波発振機専用電源のMOD SELECTORをINTに切り替える．この時，マイクロ波は1kHzの方形波を変調信号とする振幅変調がかかっている．クリスタルマウントから方形波が出力されていることをオシロスコープで観測し，波形をスケッチする．
-    \item 定在波測定器とクリスタルマウント間にマイクロホーン(電波ラッパ)を取り付け，空間伝送による送受信が可能であるか確認し出力波計をスケッチする．その後，受信アンテナの角度を正面に対して5度間隔で変化させてアンテナ指向性を測定し，グラフ化する．
+
+    \item 定在波測定器とクリスタルマウント間にマイクロホーン(電波ラッパ)を取り付け，空間伝送による送受信が可能であるか確認し出力波形をスケッチする．その後，受信アンテナの角度を正面に対して5度間隔で変化させてアンテナ指向性を測定し，グラフ化する．
   \end{enumerate}
-\end{document}
+
+  \newpage
+
+  \section{使用機器\label{kiki}}
+  \subsection{金属板}
+  実験\ref{jikken}.3で使用した金属板の画像を図1から図6に示す．
+
+  \begin{figure}[htpb]
+    \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=4cm]{./data/1.png}
+    \caption{}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=4cm]{./data/2.png}
+    \caption{}
+    \end{minipage}
+
+    \\
+    \\
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=4cm]{./data/3.png}
+    \caption{}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=4cm]{./data/4.png}
+    \caption{}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+      \centering
+      \includegraphics[keepaspectratio, width=4cm]{./data/5.png}
+      \caption{}
+      \end{minipage}
+
+      \begin{minipage}{0.50\hsize}
+      \centering
+      \includegraphics[keepaspectratio, width=4cm]{./data/6.png}
+      \caption{}
+      \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\subsection{金属板}
+実験\ref{jikken}.3で使用したマジックTの画像を図7に示す．
+\begin{figure}
+  \centering
+  \includegraphics[width=5cm]{./data/magicT.jpg}
+  \caption{マジックT}
+\end{figure}
+
+\newpage
+
+
+\section{実験結果}
+\subsection{実験\ref{jikken}.1}
+　発振器の電源を投入したところ，電圧計は9Vを示した．また，クリスタルマウントの出力からマイクロ波の発生が確認できた．
+
+\subsection{実験\ref{jikken}.2}
+　クリスタルマウントの出力が最小となる点は3.01mmであった．周波数校正図から9338MHzであることが確認できた．
+
+\subsection{実験\ref{jikken}.3}
+　金属板を挟んだ場合のそれぞれの発振強度を表１に示す．表内の図番号は　\ref{kiki}使用機器　と一致している．
+
+  \begin{table}[H]
+    \caption{金属板を挟んだ場合の発振強度}
+    \centering
+      \begin{tabular}{|l|l|}
+      \hline
+      金属板 & 発振強度   \\ \hline
+      図1  & 0uV    \\ \hline
+      図2  & 2.22V  \\ \hline
+      図3  & 1.36V  \\ \hline
+      図4  & 32mV   \\ \hline
+      図5  & 5.2mV  \\ \hline
+      図6  & 0.86mV \\ \hline
+    \end{tabular}
+  \end{table}
+
+  \subsection{実験\ref{jikken}.4}
+  　定在波測定器にマジックTの各断面を接続し，他の3個の断面に向反射終端器2個とクリスタルマウントを接続した場合の各面のマイクロ波強度を表2に示す．この時のマジックTの断面番号は図7の写真と一致している．
+
+  \begin{table}[H]
+    \centering
+    \caption{マジックTを接続した場合のマイクロ波強度}
+    \begin{tabular}{cl|l|l|l|l|}
+    \cline{3-6}
+    \multicolumn{1}{l}{}                      &   & \multicolumn{4}{c|}{出力}       \\ \cline{3-6}
+    \multicolumn{1}{l}{}                      &   & 1     & 2     & 3     & 4     \\ \hline
+    \multicolumn{1}{|c|}{\multirow{4}{*}{入力}} & 1 &    -   & 1.1mV & 1.3V  & 1.28V \\ \cline{2-6}
+    \multicolumn{1}{|c|}{}                    & 2 & 0.4mV &   -    & 1.3V  & 1.3V  \\ \cline{2-6}
+    \multicolumn{1}{|c|}{}                    & 3 & 1.2V  & 1.2V  &    -   & 160mV \\ \cline{2-6}
+    \multicolumn{1}{|c|}{}                    & 4 & 1.2V  & 1.2V  & 170mV &   -    \\ \hline
+    \end{tabular}
+  \end{table}
+
+  \subsection{実験\ref{jikken}.5}
+  　オシロスコープで観測された方形波を図8に示す．
+
+  \subsection{実験\ref{jikken}.6}
+  　空間伝送による出力波形を図9に示す．また，アンテナ指向性の測定結果を表3と図10に示す．
+  \begin{table}[H]
+    \centering
+    \caption{ホーンアンテナ指向性}
+    \begin{tabular}{|l|l|}
+    \hline
+    角度{[}deg{]} & 発振強度{[}mV{]} \\ \hline
+    0           & 555          \\ \hline
+    5           & 515          \\ \hline
+    10          & 440          \\ \hline
+    15          & 322          \\ \hline
+    20          & 237          \\ \hline
+    25          & 161          \\ \hline
+    30          & 105          \\ \hline
+    35          & 53.3         \\ \hline
+    40          & 37.0         \\ \hline
+    45          & 14.1         \\ \hline
+    50          & 5.0          \\ \hline
+    55          & 5.0          \\ \hline
+    60          & 1.5          \\ \hline
+    65          & 1.0          \\ \hline
+    70          & 2.4          \\ \hline
+    75          & 2.1          \\ \hline
+    80          & 1.9          \\ \hline
+    85          & 2.1          \\ \hline
+    90          & 1.4          \\ \hline
+    \end{tabular}
+  \end{table}
+
+  \end{document}
