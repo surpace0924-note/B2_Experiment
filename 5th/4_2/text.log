@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.22)  12 JUN 2019 22:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.22)  13 JUN 2019 07:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/ryoga/Documents/ClassExperiment/5th/3_2/text.tex
-(/Users/ryoga/Documents/ClassExperiment/5th/3_2/text.tex
+**/Users/ryoga/Documents/ClassExperiment/5th/4_2/text.tex
+(/Users/ryoga/Documents/ClassExperiment/5th/4_2/text.tex
 LaTeX2e <2018-12-01>
-(/Users/ryoga/Documents/ClassExperiment/5th/3_2/./setting.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/bxjscls/bxjsarticle.cls
+(/Users/ryoga/Documents/ClassExperiment/5th/4_2/./setting.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/bxjscls/bxjsarticle.cls
 Document Class: bxjsarticle 2019/03/10 v1.9f BXJS document classes
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
@@ -320,7 +320,7 @@ Package tascmac Info: Assuming pdfLaTeX, XeLaTeX or LuaLaTeX on input line 44.
 \shaderule=\dimen140
 )) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-)) (/Users/ryoga/Documents/ClassExperiment/5th/3_2/text.aux)
+)) (/Users/ryoga/Documents/ClassExperiment/5th/4_2/text.aux)
 \openout1 = `text.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -510,222 +510,247 @@ LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 6.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 6.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 13.31586pt on input line 8.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
 (Font)              scaled to size 13.31586pt on input line 8.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 9.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 10.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 12.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 13.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 13.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 13.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 13.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 14.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 14.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 14.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 15.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 15.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 15.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 16.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 18.
+(Font)              scaled to size 11.09656pt on input line 9.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 18.
+(Font)              scaled to size 11.09656pt on input line 9.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 19.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 19.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 19.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 19.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 19.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 20.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 21.
+(Font)              scaled to size 9.24713pt on input line 10.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 21.
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+(Font)              scaled to size 9.24713pt on input line 10.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 10.
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 28.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 28.
-
-Overfull \hbox (28.287pt too wide) in paragraph at lines 30--32
-[]\C70/mc/m/n/10/6e , \C70/mc/m/n/10/5b ö \C70/mc/m/n/10/56 h \C70/mc/m/n/10/30 k Ø Í π ø Î ﬁ ¶ Û » í Ø Í √ ◊ g \C70/mc/m/n/10/63 • \C70/mc/m/n/10/7d ö \C70/mc/m/n/10/30 Y ã|\C70/mc/m/n/10/ff ^^N| \C70/mc/m/n/10/30 ﬁ § Ø Ì \C70/mc/m/n/10/6c ‚ \C70/mc/m/n/10/76 z \C70/mc/m/n/10/63 / \C70/mc/m/n/10/56 h \C70/mc/m/n/10/5c ^^B \C70/mc/m/n/10/75 ( \C70/mc/m/n/10/96 ˚ \C70/mc/m/n/10/6e ê \C70/mc/m/n/10/30 n\OT1/cmr/m/n/10 MODSELECTOR\C70/mc/m/n/10/30 í\OT1/cmr/m/n/10 CW\C70/mc/m/n/10/30 k
- []
-
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 33.
+(Font)              scaled to size 9.24713pt on input line 10.
+<./data/1.png, id=21, 424.58624pt x 258.9675pt>
+File: ./data/1.png Graphic file (type png)
+<use ./data/1.png>
+Package pdftex.def Info: ./data/1.png  used on input line 20.
+(pdftex.def)             Requested size: 233.25752pt x 142.26378pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 33.
+(Font)              scaled to size 8.32242pt on input line 21.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 33.
+(Font)              scaled to size 8.32242pt on input line 21.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 33.
+(Font)              scaled to size 8.32242pt on input line 21.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 34.
+(Font)              scaled to size 8.32242pt on input line 21.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 34.
-[1
-
-]
+(Font)              scaled to size 8.32242pt on input line 21.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 35.
- [2]
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 43.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 43.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 43.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 43.
+(Font)              scaled to size 8.32242pt on input line 21.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 24.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 24.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 24.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 29.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 45.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 45.
+ [1
+
+ <./data/1.png>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 53.
+(Font)              scaled to size 11.09656pt on input line 46.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 47.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 48.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 48.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 48.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 48.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 48.
+<./data/2.png, id=92, 227.85126pt x 192.72pt>
+File: ./data/2.png Graphic file (type png)
+<use ./data/2.png>
+Package pdftex.def Info: ./data/2.png  used on input line 52.
+(pdftex.def)             Requested size: 168.19702pt x 142.26378pt.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 8.32242pt on input line 53.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 8.32242pt on input line 53.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 8.32242pt on input line 53.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 8.32242pt on input line 53.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 8.32242pt on input line 53.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 56.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 56.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 56.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 53.
+(Font)              scaled to size 9.24713pt on input line 58.
+Package CJKpunct Info: punctuation spaces for family 'gt' do not exist. Use family 'def' instead. on input line 58.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 54.
+(Font)              scaled to size 9.24713pt on input line 58.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 54.
+(Font)              scaled to size 9.24713pt on input line 58.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 69.
- [3]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 73.
-
+(Font)              scaled to size 9.24713pt on input line 60.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
+(Font)              scaled to size 9.24713pt on input line 60.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 75.
-[4]
-<./data/data.png, id=166, 704.6325pt x 274.77657pt>
-File: ./data/data.png Graphic file (type png)
-<use ./data/data.png>
-Package pdftex.def Info: ./data/data.png  used on input line 109.
-(pdftex.def)             Requested size: 711.3189pt x 277.38376pt.
-
-Overfull \hbox (7.3189pt too wide) in paragraph at lines 109--110
- [][] 
- []
-
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 110.
-[5 <./data/data.png>]
+(Font)              scaled to size 9.24713pt on input line 62.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 115.
+(Font)              scaled to size 13.31586pt on input line 64.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 64.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 64.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 64.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 65.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 65.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 65.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 65.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 65.
+<./data/3.png, id=99, 424.58624pt x 241.90375pt>
+File: ./data/3.png Graphic file (type png)
+<use ./data/3.png>
+Package pdftex.def Info: ./data/3.png  used on input line 68.
+(pdftex.def)             Requested size: 249.70683pt x 142.26378pt.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 117.
+(Font)              scaled to size 8.32242pt on input line 69.
+ [2 <./data/2.png>]
+<./data/4.png, id=121, 526.96875pt x 235.88126pt>
+File: ./data/4.png Graphic file (type png)
+<use ./data/4.png>
+Package pdftex.def Info: ./data/4.png  used on input line 75.
+(pdftex.def)             Requested size: 317.82402pt x 142.26378pt.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 79.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 79.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 79.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 123.
+(Font)              scaled to size 9.24713pt on input line 80.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 124.
+(Font)              scaled to size 9.24713pt on input line 82.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 89.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 89.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 90.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 11.09656pt on input line 90.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 91.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 125.
- [6
-
-
-] (/Users/ryoga/Documents/ClassExperiment/5th/3_2/text.aux) ) 
+(Font)              scaled to size 9.24713pt on input line 93.
+ [3 <./data/3.png> <./data/4.png>]
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 95.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 95.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 95.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 99.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 105.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 108.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 108.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 111.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 111.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 112.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 113.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 115.
+ [4] (/Users/ryoga/Documents/ClassExperiment/5th/4_2/text.aux) ) 
 Here is how much of TeX's memory you used:
- 7370 strings out of 492616
- 101601 string characters out of 6129481
- 181114 words of memory out of 5000000
- 10936 multiletter control sequences out of 15000+600000
- 31354 words of font info for 121 fonts, out of 8000000 for 9000
+ 7418 strings out of 492616
+ 104838 string characters out of 6129481
+ 178050 words of memory out of 5000000
+ 10968 multiletter control sequences out of 15000+600000
+ 35604 words of font info for 136 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 41i,11n,43p,932b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u55.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u22.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u77.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u80.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u98.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u67.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u66.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u03.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u56.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u75.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u68.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u50.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u70.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u79.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u9a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u81.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u97.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u64.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u82.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u74.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u59.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u73.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u61.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u83.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8c.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6b.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u72.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u91.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u88.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u69.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-uff.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u89.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u53.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u52.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5c.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u85.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u95.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7b.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u54.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u30.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u58.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u56.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u67.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u74.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u75.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u80.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u9a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u03.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u22.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u50.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u55.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u60.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u61.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u64.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u68.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u70.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u72.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u73.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u78.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u80.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u81.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u83.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u85.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u91.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u97.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u98.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb>
-Output written on /Users/ryoga/Documents/ClassExperiment/5th/3_2/text.pdf (6 pages, 589748 bytes).
+ 41i,11n,43p,932b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u00.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5c.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u67.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u61.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u50.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u91.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u95.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u72.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u52.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u75.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u54.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u9a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8c.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u66.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u77.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u56.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u30.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7b.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u98.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u79.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6b.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5f.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-uff.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u82.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5e.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u64.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u88.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u53.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u59.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8a.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u74.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u89.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u69.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u85.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5d.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u58.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u51.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u52.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u54.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u56.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u59.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u60.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u65.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u72.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u74.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u75.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u9a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u00.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u50.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u60.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u61.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u64.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6e.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u72.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/texlive/2019/texmf-dist/fonts/ty
+pe1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u78.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u85.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8d.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8f.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u91.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u98.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb>
+Output written on /Users/ryoga/Documents/ClassExperiment/5th/4_2/text.pdf (4 pages, 715382 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
+ 501 PDF objects out of 1000 (max. 8388607)
+ 336 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
