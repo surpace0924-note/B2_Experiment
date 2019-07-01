@@ -115,4 +115,92 @@
   \item 入力周波数に対する出力電圧を測定する。入力周波数の変化は 0.05MHz ごとに変化させ、±方向の電圧がピークを超えるまで測定すること。
 \end{enumerate}
 
+\section{実験結果}
+\subsection{周波数変調実験}
+\subsubsection{直流入力-周波数特性}
+　周波数カウンタの不具合のため実施しなかった．\\
+
+\subsubsection{交流入力-周波数特性}
+　入力電圧を変化させた時の波形を図5から図8に示す．また，1Hzと1kHzの周波数を入力した時のスペクトラムを図9，図10に示す．
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=7cm]{./data/5V.png}
+    \caption{入力電圧5Vの時の波形}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=7cm]{./data/10V.png}
+    \caption{入力電圧10Vの時の波形}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+      \centering
+      \includegraphics[keepaspectratio, width=7cm]{./data/15V.png}
+      \caption{入力電圧15Vの時の波形}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+      \centering
+      \includegraphics[keepaspectratio, width=7cm]{./data/20V.png}
+      \caption{入力電圧5Vの時の波形}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=7cm]{./data/1Hz.JPG}
+    \caption{入力1Hzの時のスペクトラム}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=7cm]{./data/1kHz.JPG}
+    \caption{入力1Hzの時のスペクトラム}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\subsection{周波数復調実験}
+　入力周波数に対する出力周波数を表1に示す．
+
+\begin{table}[H]
+  \centering
+  \caption{入力周波数に対する出力周波数}
+  \begin{tabular}{|l|l|lll}
+  \cline{1-2} \cline{4-5}
+  周波数{[}MHz{]} & 出力電圧{[}mV{]} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{周波数{[}MHz{]}} & \multicolumn{1}{l|}{出力電圧{[}mV{]}} \\ \cline{1-2} \cline{4-5}
+  10.45        & -289         & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.25}        & \multicolumn{1}{l|}{285.1}        \\ \cline{1-2} \cline{4-5}
+  10.5         & -294.1       & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.3}         & \multicolumn{1}{l|}{288.9}        \\ \cline{1-2} \cline{4-5}
+  10.55        & -271.2       & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.35}        & \multicolumn{1}{l|}{295.4}        \\ \cline{1-2} \cline{4-5}
+  10.6         & -211.1       & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.4}         & \multicolumn{1}{l|}{303.3}        \\ \cline{1-2} \cline{4-5}
+  10.65        & -112         & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.45}        & \multicolumn{1}{l|}{314.3}        \\ \cline{1-2} \cline{4-5}
+  10.75        & 92           & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.5}         & \multicolumn{1}{l|}{328}          \\ \cline{1-2} \cline{4-5}
+  10.8         & 156.1        & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.55}        & \multicolumn{1}{l|}{345.3}        \\ \cline{1-2} \cline{4-5}
+  10.85        & 201          & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.6}         & \multicolumn{1}{l|}{366.5}        \\ \cline{1-2} \cline{4-5}
+  10.9         & 232.2        & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.65}        & \multicolumn{1}{l|}{391.9}        \\ \cline{1-2} \cline{4-5}
+  10.95        & 252.3        & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.7}         & \multicolumn{1}{l|}{421}          \\ \cline{1-2} \cline{4-5}
+  11           & 265.3        & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.75}        & \multicolumn{1}{l|}{454}          \\ \cline{1-2} \cline{4-5}
+  11.05        & 272.1        & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.8}         & \multicolumn{1}{l|}{485}          \\ \cline{1-2} \cline{4-5}
+  11.1         & 276.2        & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.85}        & \multicolumn{1}{l|}{507}          \\ \cline{1-2} \cline{4-5}
+  11.15        & 279          & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{11.9}         & \multicolumn{1}{l|}{507}          \\ \cline{1-2} \cline{4-5}
+  11.2         & 281.6        &                       &                                   &                                   \\ \cline{1-2}
+  \end{tabular}
+  \end{table}
+
+\newpage
+\section{考察}
+
 \end{document}
