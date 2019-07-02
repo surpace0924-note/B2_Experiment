@@ -152,8 +152,8 @@ AM変調実験装置 (ITF-011)\\
 \item 搬送波と変調信号 1kHz(低周波発振器から出力)を変調回路に入力する．
 \item オシロスコープに変調信号と被変調波を表示させる．
 \item スペクトラムアナライザを接続する．
-\item 変調度を，0.1~1.0間で三通り選択して，それぞれの波形を観測する．波形から変調度を計算する場合は，Equation(8) を使用する．
-\item 各変調度におけるスペクトラムレベル [dBm] を測定し，Equation(9) より変調度の計算を行なう．
+\item 変調度を，0.1~1.0間で三通り選択して，それぞれの波形を観測する．波形から変調度を計算する場合は，式(8) を使用する．
+\item 各変調度におけるスペクトラムレベル [dBm] を測定し，式(9) より変調度の計算を行なう．
 \end{enumerate}
 
 \begin{flalign}
@@ -164,13 +164,63 @@ AM変調実験装置 (ITF-011)\\
   m = 10 \times \frac{\mbox{上側波帯レベル} - \mbox{搬送波レベル}}{20} + 10 \times \frac{\mbox{下側波帯レベル} - \mbox{搬送波レベル}}{20}
 \end{flalign}
 
-
 \subsection{包絡線検波回路による信号の復調}
 \begin{enumerate}
 \item 被変調波を検波回路に入力する．検波回路のデフォルトは，C 無しとなっている．
 \item オシロスコープに被変調波と検波波形を表示させる．コンデンサ無しの波形を観測する．
 \item $\frac{1}{\omega_c} << CR << \frac{1}{\omega_s}$の条件に適したコンデンサの中から，より包絡線に近い検波波形を表示する．
-\item コンデンサを接続して観測する． 4. 以下の条件を満たすコンデンサを接続して同様に観測する．
+\item コンデンサを接続して観測する．
+\item 以下の条件を満たすコンデンサを接続して同様に観測する．
 \end{enumerate}
+
+\newpage
+\section{実験結果}
+\subsection{AM変調実験装置の特性}
+\subsubsection{実験装置の設定}
+　発振周波数 100kHz ，出力信号振幅を 4$V_{p-p}$の波形が観測された．\\
+
+\subsubsection{変調回路の入出力特性}
+　図9に観測された変調信号と被変調波を示す．\\
+　また，変調度を変化させたスペクトラムをそれぞれ図10から図12に示す．
+\begin{figure}[htpb]
+  \centering
+
+  \begin{tabular}{c}
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=7cm]{./img/fig9.png}
+    \caption{観測された変調信号と被変調波}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+    \centering
+    \includegraphics[keepaspectratio, width=7cm]{./img/spectrum_1.JPG}
+    \caption{スペクトラム1}
+    \end{minipage}
+
+    \\
+    \\
+
+    \begin{minipage}{0.50\hsize}
+      \centering
+      \includegraphics[keepaspectratio, width=7cm]{./img/spectrum_2.JPG}
+      \caption{スペクトラム2}
+    \end{minipage}
+
+    \begin{minipage}{0.50\hsize}
+      \centering
+      \includegraphics[keepaspectratio, width=7cm]{./img/spectrum_3.JPG}
+      \caption{スペクトラム3}
+    \end{minipage}
+  \end{tabular}
+\end{figure}
+
+\subsection{包絡線検波回路による信号の復調}
+
+
+\newpage
+\section{考察}
+変調回路の特性実験において，スペクトラムレベルと変調度の関係を理論的に示し実験結果と比較せよ．
+包絡線検波について，観測結果を元に説明せよ．
 
 \end{document}
