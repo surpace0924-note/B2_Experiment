@@ -127,16 +127,29 @@
 
 \section{使用機器}
 \subsection{磁束計による電気機器鉄板のB-H曲線の測定}
-供給材料，直流電源，磁束計，電流計，保護抵抗器，切替スイッチ
+　磁束計：FLUX METER，TFM-200 TOYO MEASURING SYSTEM CO.LTD. ，S/N 7A00669\\
+　電流計：YEW AMPERES，1965，NO.52B171\\
+　直流電源：REGURATED DC POWER SUPPLY，MODEL PAB 18-3，48245155 AC 100V 50/60Hz\\
+　切り替えスイッチ：30A，250V，41-9346 MDM\\
 
 \subsection{エプスタイン装置による電気鉄板の鉄損測定}
-エプスタイン装置，周波数可変電圧電源，電力計，電圧計，電流計
+　エプスタイン装置：25cm EPSTEIN CORE LOSS TESTER，TYPE B-EP-25 5038B20 1965，\\　　YOKOGAWA ELECTRIC WORKS.LTD\\
+　電力計：YEW WATTS SNGLE-PHASE 1965 NO.5147C225\\
+　低周波定電圧電源：CVFT1-200H，東京精電株式会社 VVVF POWER SUPPY，SER-NO TC-06449\\
+　電流計：Sanwa CD800A 15025013602\\
+　電圧計：Sanwa CD800A 15025013608\\
 
-\newpage
+
+% \newpage
 \section{実験結果}
-\subsection{}
+\subsection{磁束計による電気機器用鉄板の B-H 曲線の測定}
+　実験結果を表1，表2及び図3に示す．\\
+
+\subsection{エプスタイン装置による電気鉄板の鉄損測定}
+　実験結果を表2から表4，及び図4から図6に示す．
+
 \begin{landscape}
-  \begin{table}[htbp]
+  \begin{table}[p]
     \centering
     \small
     \caption{磁束の測定}
@@ -151,6 +164,12 @@
   \caption{磁束計による電気機器用鉄板の測定}
   \input{table/2.tex}
 \end{table}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[height=10cm]{./fig/3.png}
+  \caption{磁界に対する磁束密度と比透磁率の関係}
+\end{figure}
 
 \begin{table}[htbp]
   \centering
@@ -168,5 +187,35 @@
   }
 \end{table}
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[height=10cm]{./fig/4.png}
+  \caption{磁界に対する最大磁束密度と比透磁率の関係（f=50Hz）}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[height=10cm]{./fig/5.png}
+  \caption{磁界に対する最大磁束密度と比透磁率の関係（f=60Hz）}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[height=10cm]{./fig/6.png}
+  \caption{最大磁束密度に対する鉄損の関係}
+\end{figure}
+
+\newpage
+\section{考察}
+　磁束計による電気機器用鉄板の B-H 曲線の測定では，
+
+　図4と図5を比較すると，グラフの概形，はほぼ一致していた．このことから，磁界に対する磁束密度，及び磁界に対する比透磁率は周波数に依存しないと考えられる．
+
+
+\newpage
+\section{参考文献}
+1)ヒステリシス損とは - E\&M JOBS，https://em.ten-navi.com/dictionary/2758/，2019-7-9閲覧\\
+
+2)渦電流損とは - E\&M JOBS，https://em.ten-navi.com/dictionary/2759/，2019-7-9閲覧
 
 \end{document}
