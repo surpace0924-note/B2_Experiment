@@ -16,6 +16,11 @@
 \usepackage{booktabs}
 \usepackage{multirow}
 
+\usepackage{endnotes}
+\let\footnote=\endnote
+\renewcommand{\theendnote}{\arabic{endnote})}
+\renewcommand{\notesname}{参考文献}
+
 % 文書全体のスタイルを設定（主に余白）
 \setlength{\topmargin}{-0.3in}
 \setlength{\oddsidemargin}{0pt}
