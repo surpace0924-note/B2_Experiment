@@ -3,7 +3,7 @@
 % \maketitle
 \pagestyle{fancy}
 \section{目的}
-　磁束計を用いて電気機器用鉄板のB-H曲線を求め，さらにエプスタイン装置を用いて鉄損を測定し，変圧器，直流機ならびに交流機に使用される電気用鉄板の磁気特性の概念を得る．\\
+　磁束計を用いて電気機器用鉄板の$B$-$H$曲線を求め，さらにエプスタイン装置を用いて鉄損を測定し，変圧器，直流機ならびに交流機に使用される電気用鉄板の磁気特性の概念を得る．\\
 
 \section{理論}
 \subsection{ヒステリシス損}
@@ -21,7 +21,7 @@
 \begin{figure}[H]
   \centering
   \includegraphics[width=13cm]{./fig/1.png}
-  \caption{磁束計による電気機器用鉄板のB-H曲線の測定}
+  \caption{磁束計による電気機器用鉄板の$B$-$H$曲線の測定}
 \end{figure}
 
 \begin{figure}[H]
@@ -31,13 +31,14 @@
 \end{figure}
 
 \section{実験方法}
-\subsection{磁束計による電気機器用鉄板の B-H 曲線の測定}
+\subsection{磁束計による電気機器用鉄板の $B$-$H$ 曲線の測定}
 \subsubsection{磁束の測定}
 \begin{enumerate}
   \item 図1の通りに結線する．
   \item 試料の減磁作業を行う．磁束計スイッチ S2 を OFF にして，電源電圧を 0 から徐々に上昇させながら，S1を1回/秒ほどの割合で a⇄b側を切り換える．電流値が 1A 程度になったら，徐々に電流値0A まで減少させながら同様に S1を切り換える．
-  \item 磁束計スイッチ S2 を「SHORT」にして，S2 を 2~3回程度押してゼロ調整を行う． 4. 電源電圧を調整して電流値を 0.1A に設定して，S1を OFF から a側に入れて磁束計を読む．
-  \item S1 を b側に切り換えて同様に磁束計を読む．この測定を2~3回程度繰り返して平均値を求める．
+  \item 磁束計スイッチ S2 を「SHORT」にして，S2 を 2，3回程度押してゼロ調整を行う．
+  \item 電源電圧を調整して電流値を 0.1A に設定して，S1を OFF から a側に入れて磁束計を読む．
+  \item S1 を b側に切り換えて同様に磁束計を読む．この測定を2，3回程度繰り返して平均値を求める．
   \item 電流値を最大 1A まで変化させて測定する．
   \item 測定値から4.1.2を使用して各諸量を計算する．
 \end{enumerate}
@@ -46,24 +47,24 @@
 \subsubsection{諸量の計算}
 \begin{enumerate}
   \item 磁束$\phi$の計算
-  使用している磁束計 (TFM-2000) で読み X の単位は [mWb] である．また，電気機器用鉄板の二次巻線巻数は 25 である．これらの数値から 式(1) より，鉄板中の磁束 [Wb] を求める．
+  使用している磁束計 (TFM-2000) で読み $X$ の単位は [mWb] である．また，電気機器用鉄板の二次巻線巻数は 25 である．これらの数値から 式(1) より，鉄板中の磁束 [Wb] を求める．
   \begin{flalign}
     \phi = \frac{X}{25}
   \end{flalign}\\
 
-  \item 磁界 H の計算
-  平均磁路の長さ L = 0.32[m]，一次巻線の巻数 N1 = 160 である．これらの数値から 式(2) より，磁界の強さ H[A/m] を求める．
+  \item 磁界 $H$ の計算
+  平均磁路の長さ $L$ = 0.32[m]，一次巻線の巻数 $N_1$ = 160 である．これらの数値から 式(2) より，磁界の強さ $H$[A/m] を求める．
   \begin{flalign}
     H=\frac{IN_1}{L}
   \end{flalign}\\
 
-  \item 磁束密度 B の計算
-  試料の断面は，縦 30mm，横20mm である．これより断面積 A[$m^2$] を求め，式(3) より磁束密度 B[T] を求める．
+  \item 磁束密度 $B$ の計算
+  試料の断面は，縦 30mm，横20mm である．これより断面積 $A$[$\mathrm{m^2}$] を求め，式(3) より磁束密度 $B$[T] を求める．
   \begin{flalign}
     B=\frac{\phi}{A}
   \end{flalign}\\
 
-  \item 透磁率 μの計算
+  \item 透磁率 $\mu$ の計算
   式(4) より，透磁率 $\mu$[H/m] を求める．
   \begin{flalign}
     \mu = \frac{B}{H}
@@ -82,7 +83,7 @@
 
 \subsubsection{諸量の計算}
 \begin{enumerate}
-  \item 鉄損 Wiの計算
+  \item 鉄損 $W_i$の計算
   電圧計ならびに電流計の読みと，これらの電圧コイル等の抵抗値から，計器の銅損を除いた単位重量当たりの鉄損 [W/kg] は 式(5) で求めることができる．
   \begin{flalign}
     W_i = \frac{1}{M} \left( W_0 - E_0^2 (\frac{1}{R_V} + \frac{1}{R_W}) \right)
@@ -93,7 +94,7 @@
   $R_W$：電力計の電圧コイルの抵抗値 [$\Omega$]\\
   $M$: 重量 [kg]\\
 
-  \item 磁化電流 In の計算
+  \item 磁化電流 $I_n$ の計算
   磁化電流 [A] は，電流計の読みからその有効分電流を減じたものであるから 式(6)で求めることができる．
   \begin{flalign}
     I_m = \sqrt{I_0^2 - \left( \frac{W_0}{E_0} \right)^2}
@@ -108,7 +109,7 @@
   $N$：磁化コイル巻数[回]\\
   $L$：鉄心の平均長さ[m]\\
 
-  \item 最大磁束密度 Banの計算
+  \item 最大磁束密度 $B_m$の計算
   誘導起電力と最大磁束密度には比例の関係があり，その与えられる関係式を変形すると，最大磁束密 度は 式(8) で求めることができる．
   \begin{flalign}
     E_0 &= 4.44 f A B_m N \nonumber\\
@@ -126,7 +127,7 @@
 \end{enumerate}
 
 \section{使用機器}
-\subsection{磁束計による電気機器鉄板のB-H曲線の測定}
+\subsection{磁束計による電気機器鉄板の$B$-$H$曲線の測定}
 　磁束計：FLUX METER，TFM-200 TOYO MEASURING SYSTEM CO.LTD. ，S/N 7A00669\\
 　電流計：YEW AMPERES，1965，NO.52B171\\
 　直流電源：REGURATED DC POWER SUPPLY，MODEL PAB 18-3，48245155 AC 100V 50/60Hz\\
@@ -142,7 +143,7 @@
 
 % \newpage
 \section{実験結果}
-\subsection{磁束計による電気機器用鉄板の B-H 曲線の測定}
+\subsection{磁束計による電気機器用鉄板の $B$-$H$ 曲線の測定}
 　実験結果を表1，表2及び図3に示す．\\
 
 \subsection{エプスタイン装置による電気鉄板の鉄損測定}
@@ -213,9 +214,6 @@
 
 
 \newpage
-\section{参考文献}
-1)ヒステリシス損とは - E\&M JOBS，https://em.ten-navi.com/dictionary/2758/，2019-7-9閲覧\\
-
-2)渦電流損とは - E\&M JOBS，https://em.ten-navi.com/dictionary/2759/，2019-7-9閲覧
+\theendnotes
 
 \end{document}
